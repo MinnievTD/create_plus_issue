@@ -1,4 +1,4 @@
-https://modrinth.com/modpack/create_+++
+![(https://modrinth.com/modpack/create_+++)](https://cdn.modrinth.com/data/cached_images/fb0bbff1bafdb3c304685035d38d60190bee7396.jpeg)
 
 ### This modpack is based on **Create**, but it has a lot of main add-ons to it, such as :
 > 1. **Ad Astra** - To explore new planets.
